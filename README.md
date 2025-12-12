@@ -1,5 +1,5 @@
 # 👋 **Můj život**
-> _Jsem Adrián — student a programátor, co si potrpí na čistý kód, dobrý design a smysluplné projekty._
+> _Student a programátor, co si potrpí na čistý kód, dobrý design a smysluplné projekty._
 
 ---
 
