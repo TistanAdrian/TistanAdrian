@@ -4,7 +4,7 @@
 ---
 
 ## 💻 **Co dělám**
-Rád tvořím software, který je přehledný, udržitelný a dává hlavu a patu. Učím se programovat krok za krokem, zkouším nové věci a baví mě hledat řešení, která nejsou jen „nějak funkční“, ale opravdu dobře udělaná.
+Učím se programovat krok za krokem, zkouším nové věci a baví mě hledat řešení, která nejsou jen „nějak funkční“, ale opravdu dobře udělaná.
 
 Zároveň si rád hraju s novými technologiemi a nebojím se opravovat vlastní chyby — beru to jako přirozenou součást toho, jak se zlepšuju.
 
